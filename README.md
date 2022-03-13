@@ -33,5 +33,4 @@
   </div>
   
   ##
-  
    ![Snake animation](https://github.com/luka24erica/luka24erica/blob/output/github-contribution-grid-snake.svg)
